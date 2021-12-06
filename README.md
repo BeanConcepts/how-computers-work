@@ -6,4 +6,7 @@
 - This program is designed to give you the foundational skills and confidence required for an entry level IT support role. 
 - If you dedicate around eight to 10 hours a week to the courses, we anticipate that you'll complete the certificate in about eight months.
 - Another really cool part about this program is that it's been created entirely by real world pros who have a strong background in IT support
-- #### What is IT?
+ #### What is IT?
+- Information technology has completely transformed your life in ways that you may not even realize.
+- IT is essentially the use of digital technology, like computers and the internet, to store and process data into useful information.
+- IT helps people solve meaningful problems by using technology.
