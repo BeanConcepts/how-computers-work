@@ -10,3 +10,7 @@
 - Information technology has completely transformed your life in ways that you may not even realize.
 - IT is essentially the use of digital technology, like computers and the internet, to store and process data into useful information.
 - IT helps people solve meaningful problems by using technology.
+##### What does an IT Support Specialist do?
+-it varies a ton, based on whether you're doing in personal or remote, support and at a small business or a large enterprise company.
+-Being an IT generalist also gave me the flexibility to learn and practice so many different skills and eventually determined where I want to focus my career.
+-Using failure as a feedback is an important skill both in IT and in life. 
