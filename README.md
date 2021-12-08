@@ -14,3 +14,8 @@
 - it varies a ton, based on whether you're doing in personal or remote, support and at a small business or a large enterprise company.
 - Being an IT generalist also gave me the flexibility to learn and practice so many different skills and eventually determined where I want to focus my career.
 - Using failure as a feedback is an important skill both in IT and in life.
+###### Course Introduction
+- The guidance system that navigated the spacecraft was one of the earliest forms of modern computing. 
+- Computer hardware and software have had such a dramatic evolution that what was once only used to power rockets, now shapes the entire way our world functions. 
+- We'll also spend time learning about how applications and programs tie all of this together, and let humans interact with these systems.
+- Whether you're looking for a job in the IT industry or you just want to learn higher laptop connects to the Internet, understanding how computers work at every level can help you in your day-to-day life and in the workplac
