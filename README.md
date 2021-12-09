@@ -30,4 +30,6 @@
  - The CPU does all the calculations and data processing.
  - RAM is our computer's short-term memory.
  - It holds everything in place and lets our components communicate with each other.
+ ##### Programs and Hardware
+- 
  
