@@ -22,3 +22,6 @@
 ## The Modern Computer
 
 ### Module Introduction
+-  I worked as an IT consultant to decommission an entire IT environment. 
+-  Starting at Google as an IT generalist allowed me to experience many different areas of technology.
+-  You'll be able to describe all the physical parts of a computer and how they work together. 
