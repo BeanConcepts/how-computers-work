@@ -19,3 +19,4 @@
 - Computer hardware and software have had such a dramatic evolution that what was once only used to power rockets, now shapes the entire way our world functions. 
 - We'll also spend time learning about how applications and programs tie all of this together, and let humans interact with these systems.
 - Whether you're looking for a job in the IT industry or you just want to learn higher laptop connects to the Internet, understanding how computers work at every level can help you in your day-to-day life and in the workplace.
+## Introduction to Computer Hardware
