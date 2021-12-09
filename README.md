@@ -31,5 +31,7 @@
  - RAM is our computer's short-term memory.
  - It holds everything in place and lets our components communicate with each other.
  ##### Programs and Hardware
-- 
+-  Remember that our computer can only communicate in binary, using ones and zeroes.
+-  The chef is our CPU, she processes the recipes we send her and makes the food.
+-  RAM can hold millions, even billions, of rows of data
  
