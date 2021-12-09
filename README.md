@@ -29,4 +29,5 @@
  - With just these ports, we're able to have the basic functionality to browse the web and much more.
  - The CPU does all the calculations and data processing.
  - RAM is our computer's short-term memory.
+ - It holds everything in place and lets our components communicate with each other.
  
