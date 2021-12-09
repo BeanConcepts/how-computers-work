@@ -33,5 +33,6 @@
  ##### Programs and Hardware
 -  Remember that our computer can only communicate in binary, using ones and zeroes.
 -  The chef is our CPU, she processes the recipes we send her and makes the food.
--  RAM can hold millions, even billions, of rows of data
+-  RAM can hold millions, even billions, of rows of data.
+-  Cache is smaller than RAM, but it let's us store data that we use often, and let's us quickly reference it.
  
