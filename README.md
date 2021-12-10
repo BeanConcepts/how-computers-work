@@ -26,7 +26,6 @@
 -  Starting at Google as an IT generalist allowed me to experience many different areas of technology.
 -  You'll be able to describe all the physical parts of a computer and how they work together. 
  #### Introduction to Computer Hardware
- - With just these ports, we're able to have the basic functionality to browse the web and much more.
  - The CPU does all the calculations and data processing.
  - RAM is our computer's short-term memory.
  - It holds everything in place and lets our components communicate with each other.
