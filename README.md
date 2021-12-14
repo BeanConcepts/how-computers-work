@@ -37,7 +37,7 @@
 ## What's an Operating system?
 
 ### Module Introduction
--
+- it's essential to understand how operating systems work so you can help someone accomplish the task they set out to do,
 
--
+
  
