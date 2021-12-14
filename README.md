@@ -77,6 +77,20 @@
 - The POST performs a series of diagnostic tests to make sure that the computer is in proper working order. 
 -  The bootloader is a small program that loads the operating system.
 ### Mobile Operating Systems
-- General-purpose mobile devices generally use a mobile operating system that's derived from other operating systems.
+- General-purpose mob ile devices generally use a mobile operating system that's derived from other operating systems.
 - Mobile operating systems are optimized to use as little power as possible.
--  
+### Cindy Drive & Career Path
+- Technology is a real equalizer.
+
+## Installing an Operating System
+
+### Choosing an Operating System
+- The operating systems in use by an organization have a lot to do with the applications and systems that they need to run.
+- Modern operating systems do a pretty good job of supporting common hardware.
+-  the operating system will continue from whatever point the vendor left it at.
+-   As an IT support specialist, you'll install an operating system many times, so using one single disk won't be time efficient or scalable.
+### Virtual Machines
+- A virtual machine is just a copy of a real machine.
+- Virtual machines use physical resources like memory, CPU and storage, but they offer the added benefit of running multiple operating systems at once. 
+- Throughout this program, you'll actually be using VMs to perform hands-on exercises. 
+### Installing Windows
