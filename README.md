@@ -43,5 +43,9 @@
 - Remote connection makes working in an IT support role much easier since it allows us to manage multiple machines from anywhere in the world.
 - To use SSH, you need to have an SSH client installed on the computer you're connecting from along with an SSH server on the computer you're trying to connect to.
 - A VPN is a virtual private network. It allows you to connect to a private network like your work network over the Internet.  
-
+### Remote Connections on Windows
+- The ability to make remote connections is equally useful on Windows computers.
+- Then tell it you want to connect via SSH by adding the -SSH option. You can also provide the user an address in the form of user at IP address and specifying the port at the end. 
+- SSH can be super useful especially if you want to connect from a computer running Windows to Linux-based operating system running remotely. 
+### Components of an Operating System
  
