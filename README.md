@@ -48,4 +48,35 @@
 - Then tell it you want to connect via SSH by adding the -SSH option. You can also provide the user an address in the form of user at IP address and specifying the port at the end. 
 - SSH can be super useful especially if you want to connect from a computer running Windows to Linux-based operating system running remotely. 
 ### Components of an Operating System
- 
+- The kernel is the main core of an operating system. It talks directly to our hardware and manages our systems resources. As users, we don't interact with the kernel directly. 
+- If you're able to understand the basic building blocks of one OS, you can apply that to any operating system and understand how it works.
+- The kernel does file storage in file management.
+- The user space is everything outside the kernel.
+### Files and File Systems
+- The kernel handles file storage and file systems on our machines. 
+- This way our operating system can read and write data to it.
+### Process Management
+- A process is a program that's executing, like our internet browser or text editor. 
+- This process needs to have harder resources like RAM and CPU.
+- The CPU execute one process in milliseconds then executes another process then another.
+### Memory Management
+- Virtual memory is a combination of hard drive space and RAM that acts like memory that our processes can use. 
+- If we want to read and execute these pages, they have to be sent to physical memory or RAM.
+- When we store our virtual memory on our hard drive, we call the allocated space, swap space. 
+### I/O Management
+- We refer to devices that perform input and output, as I/O devices. 
+- These I/O devices are all managed by our kernel.
+- I/O doesn't just mean the transfer of data between us and our devices.
+### Interacting with the OS: User Space
+- A graphical user interface or GUI, is a visual way to interact with a computer. 
+- People usually recognize a device or product based on its GUI. 
+### Logs
+- Logs or files that record system events on our computer. 
+- logs are kept so we can refer back to them when we need to find out something that happened.
+### The Boot Process
+- The POST performs a series of diagnostic tests to make sure that the computer is in proper working order. 
+-  The bootloader is a small program that loads the operating system.
+### Mobile Operating Systems
+- General-purpose mobile devices generally use a mobile operating system that's derived from other operating systems.
+- Mobile operating systems are optimized to use as little power as possible.
+-  
