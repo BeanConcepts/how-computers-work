@@ -93,4 +93,10 @@
 - A virtual machine is just a copy of a real machine.
 - Virtual machines use physical resources like memory, CPU and storage, but they offer the added benefit of running multiple operating systems at once. 
 - Throughout this program, you'll actually be using VMs to perform hands-on exercises. 
-### Installing Windows
+### What is Chrome OS?
+- Chrome OS has one main purpose: to be a secure and simple way for the user to interact with the web.
+- It can also run Android and Linux applications inside containers
+- Chrome OS has strong security, which we'll learn about in an upcoming course. 
+### Introduction to Qwiklabs
+- Qwiklabs is an online learning environment that takes you through live real-world scenarios you may encounter as an IT support specialist.
+
