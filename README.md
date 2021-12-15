@@ -79,8 +79,7 @@
 ### Mobile Operating Systems
 - General-purpose mob ile devices generally use a mobile operating system that's derived from other operating systems.
 - Mobile operating systems are optimized to use as little power as possible.
-### Cindy Drive & Career Path
-- Technology is a real equalizer.
+.
 
 ## Installing an Operating System
 
