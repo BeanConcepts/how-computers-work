@@ -77,7 +77,7 @@
 - The POST performs a series of diagnostic tests to make sure that the computer is in proper working order. 
 -  The bootloader is a small program that loads the operating system.
 ### Mobile Operating Systems
-- General-purpose mob ile devices generally use a mobile operating system that's derived from other operating systems.
+- General-purpose mobile devices generally use a mobile operating system that's derived from other operating systems.
 - Mobile operating systems are optimized to use as little power as possible.
 .
 
