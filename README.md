@@ -37,6 +37,8 @@
 ## What's an Operating system?
 
 ### Module Introduction
+-  what an operating system is and what makes up an operating system. 
+-  Operating systems are an essential part of I.T. support
 - it's essential to understand how operating systems work so you can help someone accomplish the task they set out to do,
 ### Remote Connection and SSH
 - You use this connection to log into your computer at home, and just as if you are sitting at home, you're able to grab the file from your desktop and copy it to your laptop.
