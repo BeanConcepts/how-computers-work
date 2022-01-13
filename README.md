@@ -88,7 +88,8 @@
 ### Choosing an Operating System
 - The operating systems in use by an organization have a lot to do with the applications and systems that they need to run.
 - Modern operating systems do a pretty good job of supporting common hardware.
--  the operating system will continue from whatever point the vendor left it at.
+-  the operating system will continue from whatever point the vendor l
+-  eft it at.
 -   As an IT support specialist, you'll install an operating system many times, so using one single disk won't be time efficient or scalable.
 ### Virtual Machines
 - A virtual machine is just a copy of a real machine.
@@ -100,4 +101,18 @@
 - Chrome OS has strong security, which we'll learn about in an upcoming course. 
 ### Introduction to Qwiklabs
 - Qwiklabs is an online learning environment that takes you through live real-world scenarios you may encounter as an IT support specialist.
+## What is Networking
 
+### Basics of Networking
+- The Internet is just an interconnection of computers around the world.
+- The Internet is the physical connection of computers and wires around the world. 
+- The Web is the information on the Internet. 
+- Servers store the websites that we use.
+### Networking Hardware
+-  Ethernet cable, which lets you physically connect to the network through a cable. 
+-  Wi-Fi, which is wireless networking. 
+-  Fiber optic gets its name, because the cables contain glass fibers that move data through light instead of electricity.
+### Language of the Internet
+-  They're called IP addresses or Internet protocol addresses. 
+-   The Internet Protocol helps us route information. 
+-   The Transmission Control Protocol or TCP, is a protocol that handles reliable delivery of information from one network to another.
