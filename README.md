@@ -116,3 +116,21 @@
 -  They're called IP addresses or Internet protocol addresses. 
 -   The Internet Protocol helps us route information. 
 -   The Transmission Control Protocol or TCP, is a protocol that handles reliable delivery of information from one network to another.
+### The web
+- All websites can be accessed through the Web. 
+- A URL, which stands for Uniform Resource Locator, is just a web address similar to a home address. 
+- The source of Internet requests are usually identified by IP addresses and server logs. 
+## Limitations of the Internet
+
+### History of the Internet
+- As an IT support specialist, you should understand what the future of the Internet holds and why. 
+###  Limitations of the Internet
+- A device that wants to connect to the internet, needs to have an IP address. 
+- IP addresses have been able to keep up with the amount of devices in the world.
+## Impact of the Internet
+
+### Impact 
+- 
+
+
+
