@@ -130,6 +130,9 @@
 ## Impact of the Internet
 
 ### Impact 
+- we could use sites like Craigslist to post an advertisement for free
+- Countries can communicate with each other faster. 
+- News happening on the other side of the world reaches us before we can blink.
 - 
 
 
